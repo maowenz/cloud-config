@@ -1,0 +1,2 @@
+config:
+ info: label:master,env:test,version:1
